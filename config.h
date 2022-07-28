@@ -22,3 +22,4 @@ static unsigned int lines      = 10;
  * for example: " /?\"&[]"
  */
 static const char worddelimiters[] = " ";
+static const unsigned int border_width = 4;
